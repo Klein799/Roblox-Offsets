@@ -1,7 +1,4 @@
-// Total FFlags: 12048
-
-namespace fflags 
-{
+namespace fflags {
 
     inline uintptr_t ACSReturnPromiseException = 0x6798878;
     inline uintptr_t ADS4948SendUniverseIdToEventStream = 0x67BE940;
