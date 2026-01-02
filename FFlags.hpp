@@ -1,3 +1,5 @@
+#pragma once
+
 namespace fflags {
 
     inline uintptr_t ACSReturnPromiseException = 0x6798878;
