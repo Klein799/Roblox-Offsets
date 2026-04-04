@@ -1,6 +1,5 @@
-// Total FFlags: 25,974
-
 #pragma once
+// Total FFlags: 25,974
 
 namespace FFlags 
 {
